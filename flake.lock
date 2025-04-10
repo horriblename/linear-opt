@@ -2,10 +2,10 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1742422364,
-        "narHash": "sha256-mNqIplmEohk5jRkqYqG19GA8MbQ/D4gQSK0Mu4LvfRQ=",
-        "path": "/nix/store/1728d3jg85mkz2w2cvk6vi74i30fn6x7-source",
-        "rev": "a84ebe20c6bc2ecbcfb000a50776219f48d134cc",
+        "lastModified": 1743827369,
+        "narHash": "sha256-rpqepOZ8Eo1zg+KJeWoq1HAOgoMCDloqv5r2EAa9TSA=",
+        "path": "/nix/store/inbabfz8n7fxflkis0a05zcli4a1q2bp-source",
+        "rev": "42a1c966be226125b48c384171c44c651c236c22",
         "type": "path"
       },
       "original": {
@@ -23,11 +23,11 @@
     "scip": {
       "flake": false,
       "locked": {
-        "lastModified": 1744089092,
-        "narHash": "sha256-A/Y2HPG34iR7m3XDwCaETEbPyncEj0MJD9/eek8vlNk=",
+        "lastModified": 1744261662,
+        "narHash": "sha256-lTc/I82VsCq7oN8nEv+59z6VH3dHVF8G9fUD3ct8xyo=",
         "owner": "scipopt",
         "repo": "scip",
-        "rev": "278d8efeec2b80e92076996260bbe6af807a3c13",
+        "rev": "6b76df71ae91fcdf6a456ef4616f05eb32d3c881",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
     "zimpl": {
       "flake": false,
       "locked": {
-        "lastModified": 1738055229,
-        "narHash": "sha256-4baf7YZ46l+coYwZ98d2mXTr0e2XVeL0317ETg4R0Z8=",
+        "lastModified": 1744171742,
+        "narHash": "sha256-tvFIdRSTqJUE5mnCmYDbkh0wF2gLhx3ObCmMUV3sUF4=",
         "owner": "scipopt",
         "repo": "zimpl",
-        "rev": "415dd563dcdd078d49ce03b890b8c31e592e4ef6",
+        "rev": "ca6b21f22ab7dbe85695fd17468d1e381faef538",
         "type": "github"
       },
       "original": {
