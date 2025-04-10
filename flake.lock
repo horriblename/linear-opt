@@ -1,0 +1,58 @@
+{
+  "nodes": {
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1742422364,
+        "narHash": "sha256-mNqIplmEohk5jRkqYqG19GA8MbQ/D4gQSK0Mu4LvfRQ=",
+        "path": "/nix/store/1728d3jg85mkz2w2cvk6vi74i30fn6x7-source",
+        "rev": "a84ebe20c6bc2ecbcfb000a50776219f48d134cc",
+        "type": "path"
+      },
+      "original": {
+        "id": "nixpkgs",
+        "type": "indirect"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": "nixpkgs",
+        "scip": "scip",
+        "zimpl": "zimpl"
+      }
+    },
+    "scip": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1744089092,
+        "narHash": "sha256-A/Y2HPG34iR7m3XDwCaETEbPyncEj0MJD9/eek8vlNk=",
+        "owner": "scipopt",
+        "repo": "scip",
+        "rev": "278d8efeec2b80e92076996260bbe6af807a3c13",
+        "type": "github"
+      },
+      "original": {
+        "owner": "scipopt",
+        "repo": "scip",
+        "type": "github"
+      }
+    },
+    "zimpl": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1738055229,
+        "narHash": "sha256-4baf7YZ46l+coYwZ98d2mXTr0e2XVeL0317ETg4R0Z8=",
+        "owner": "scipopt",
+        "repo": "zimpl",
+        "rev": "415dd563dcdd078d49ce03b890b8c31e592e4ef6",
+        "type": "github"
+      },
+      "original": {
+        "owner": "scipopt",
+        "repo": "zimpl",
+        "type": "github"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
